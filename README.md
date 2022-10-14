@@ -1,5 +1,5 @@
 # Money_management
-Basit seviyede bir para yönetimi uygulaması (Flutter / Dart)
+Basit seviyede mini para yönetimi uygulaması (Flutter / Dart)
 ---------------
 Açılış sayfası
 ---------------
